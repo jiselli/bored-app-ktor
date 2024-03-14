@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BoredAPP</string>
+    <string name="button_request_activity">I\'m bored, send me a suggestion</string>
+    <string name="request_error">Request error, please try again</string>
+    <string name="label_title_activity">How about?</string>
+    <string name="label_participants">Participants: %s</string>
+    <string name="label_activity_type">Type: %s</string>
+</resources>
