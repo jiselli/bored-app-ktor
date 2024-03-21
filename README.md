@@ -4,7 +4,10 @@
 This application aims to demonstrate how to consume an API using the Ktor framework in an Android application. Through this example, you will learn how to configure an HTTP client, make requests to the API, and handle the received responses.
 
 ## Preview
-![BOREDAPP](BOREDAPP.gif)
+![success](success.gif)
+
+## Error Handling 
+![error_handling](error_connection.gif)
 
 ## Prerequisites
 - Basic knowledge of Kotlin.
